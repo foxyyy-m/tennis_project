@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+tennis court detection.txt
+/bin
+/lib
+/lib64
+pyvenv.cfg
